@@ -1,0 +1,9 @@
+integrantes:
+- Denis Llantoy Vasquez
+- Jose Carlos Huaman Lago
+
+juego: Snake
+
+dennyslv31@gmail.com
+
+https://github.com/denisllantoy/maestroSnake
